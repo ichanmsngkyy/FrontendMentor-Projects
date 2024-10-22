@@ -13,7 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -29,7 +28,7 @@ This is my solution to QR code component. I used HTML5 and CSS.
 ### Links
 
 - Solution URL: (https://github.com/ichanmsngkyy/FrontendMentor-Projects/tree/main/QRCode)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: ((https://ichanmsngkyy.github.io/QRCodeComponent-Solution/))
 
 ## My process
 I just used HTML5 and CSS to practice my skill.
