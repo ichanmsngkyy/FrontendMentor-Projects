@@ -21,7 +21,7 @@ This is my solution to QR code component. I used HTML5 and CSS.
 
 ### Screenshot
 
-/home/ichanmsngky/FrontendMentor-Projects/QRCodeComponent/QRCode.png
+![Screenshot](QRCode.png) 
 
 
 
