@@ -45,22 +45,6 @@ I fix the layout first before creating the css file.
 
 How to utilize flexbox for designing simple layouts
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
 ## Author
 
 - Github - [ichanmsngkyy](https://github.com/ichanmsngkyy)
